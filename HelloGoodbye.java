@@ -11,8 +11,8 @@ public class HelloGoodbye {
             System.out.println("Must be at least 2 Arguments");
         }
         else {
-            System.out.printf("Hello %s %s %n", args[0], args[1]);
-            System.out.printf("Goodbye %s %s %n", args[0], args[1]);
+            System.out.printf("Hello %s and %s.%n", args[0], args[1]);
+            System.out.printf("Goodbye %s and %s.%n", args[1], args[0]);
         }
 
     }

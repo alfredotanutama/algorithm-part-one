@@ -79,25 +79,25 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Users/Asus A456U/Desktop/hello/algs4.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus A456U/Desktop/hello/algs4.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Asus A456U\Desktop\hello" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RandomWord">
+  <component name="RunManager" selected="Application.HelloGoodbye">
     <configuration name="HelloGoodbye" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HelloGoodbye" />
       <module name="Computer Science" />
-      <option name="PROGRAM_PARAMETERS" value="Andi Budi" />
+      <option name="PROGRAM_PARAMETERS" value="Kevin Bob" />
       <method v="2" />
     </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application">
